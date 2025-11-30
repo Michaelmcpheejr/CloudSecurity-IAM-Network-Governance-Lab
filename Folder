@@ -1,0 +1,15 @@
+/CloudSecurity-IAM-Network-Governance-Lab
+│
+├── README.md
+│
+├── screenshots/
+│   ├── rg_creation.png
+│   ├── vnet_subnets.png
+│   ├── subnet_iam.png
+│   ├── storage_rbac.png
+│   ├── defender_recommendations.png
+│   └── activity_logs.png
+│
+└── reports/
+    ├── CloudSecurityLab_AuditSummary.pdf
+    └── CloudSecurityLab_FindingsAndRemediation.pdf
