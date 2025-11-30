@@ -3,4 +3,4 @@ Virtual Network: vnet-cloudsec-zero (10.10.0.0/16)
    ├── subnet-public  (10.10.1.0/24)
    └── subnet-private (10.10.2.0/24)
 Storage Account: stcloudsecmm (secure, private)
-Security Group: sg-cloudsec-ops
+Security Group: cloudsec-ops
