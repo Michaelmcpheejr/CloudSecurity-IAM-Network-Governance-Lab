@@ -3,11 +3,11 @@ Cloud Security IAM & Network Governance Lab (Azure)
 Author: Michael McPhee
 Focus Areas: IAM Hardening • RBAC Governance • Network Segmentation • Storage Security • Activity Logging • Compliance Mapping
 
-Overview
+Overview:
 
 This project demonstrates a fully zero-cost cloud security environment built in Microsoft Azure. The lab focuses on implementing identity governance, least privilege RBAC, network segmentation, and storage security using Azure-native tools and best practices aligned with NIST SP 800-53 and PCI DSS segmentation controls.
 
-Key Objectives
+Key Objectives:
 
 Deploy a secure Azure environment with proper segmentation
 
@@ -23,7 +23,7 @@ Review Defender for Cloud baseline recommendations
 
 Produce audit-ready documentation and remediation steps
 
-Skills Demonstrated
+Skills Demonstrated:
 
 Azure IAM & RBAC
 
